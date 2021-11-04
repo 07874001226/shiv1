@@ -12,6 +12,7 @@ public class VisaConfirmationSteps {
     SelectNationalityPage selectNationalityPage;
     ReasonForTravelPage reasonForTravelPage;
     DurationOfStayPage durationOfStayPage;
+    ResultPage resultPage;
 
 
     @Given("I am on the Check UK visa website")
